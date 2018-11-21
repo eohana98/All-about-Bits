@@ -1,2 +1,1 @@
-# All-about-Bits
-Advanced Homework 2
+Text Generation
